@@ -1,0 +1,8 @@
+.fade {
+  height: 200px;
+  background-color: #c33;
+  opacity: 0;
+  margin: 50px;
+  padding: 50px;
+  transition: opacity 1s linear;
+}
